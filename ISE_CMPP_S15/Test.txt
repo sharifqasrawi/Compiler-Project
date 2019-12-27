@@ -1,0 +1,93 @@
+class test
+{
+
+	int add1(int x, int y)
+	{
+		return x + y;
+	}
+
+	double addDoubles(double a, double b)
+	{
+		return a + b;
+	}
+
+	void writeOdds(int x)
+	{
+		int i = 1;
+		while(i < x)
+		{
+			Write(i);
+			i = i + 2;
+		}
+	}
+
+	int GCD(int x, int y)
+	{
+		while(x != y)
+		{
+			if x > y
+				x = x-y;
+			else
+				y = y-x;
+		}
+		return x;
+	}
+
+	int fact (int n)
+	{
+		int f = 1;
+		int i = n;
+		while (i > 0)
+		{
+			f = f * i; 
+			i = i - 1;
+		}
+		return f;
+	}
+
+	int increment(int x)
+	{
+		return x + 1;
+	}
+
+
+	void Main()
+	{
+		int x = ReadInt();
+		
+		int y = ReadInt();
+		
+		int resAdd = add1(x, y);
+		
+		Write(resAdd);
+
+		/*
+		int a = ReadInt();
+		int b = ReadInt();
+
+		Write(GCD(a , b));
+		*/
+
+		//double x = 27.3;
+		//double y = 55.5;
+		//int a = 10;
+		//int b = 1;
+
+
+		/*
+		bool bl;
+		bl = false;
+		Write(bl);
+		Write(!bl);
+		*/
+		
+		//Write(GCD(75,25));
+		//Write(add1(x,y));
+		//writeOdds(b);
+		
+		//Write(fact(25));
+		
+		//Write(increment(2));
+		
+	}
+}

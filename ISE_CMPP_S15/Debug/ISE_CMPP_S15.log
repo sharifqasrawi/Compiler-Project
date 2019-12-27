@@ -1,0 +1,190 @@
+﻿Build started 27/12/2019 12:37:56.
+     1>Project "D:\dev\Compiler\ISE_CMPP_S15_Final\ISE_CMPP_S15\ISE_CMPP_S15\ISE_CMPP_S15.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Program.cpp parser.cpp scanner.cpp
+         scanner.cpp
+     1>d:\dev\compiler\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\scanner.cpp(26): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+         parser.cpp
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(18): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(19): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(20): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(21): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(22): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(23): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(24): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(25): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(26): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(27): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(28): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(29): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(30): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(31): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(32): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(33): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(34): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(35): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(36): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(37): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(38): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(39): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(40): error C2143: syntax error : missing ';' before '*'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dev\compiler\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.cpp(263): warning C4273: 'malloc' : inconsistent dll linkage
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(642) : see previous definition of 'malloc'
+     1>d:\dev\compiler\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.cpp(270): warning C4273: 'free' : inconsistent dll linkage
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(641) : see previous definition of 'free'
+     1>d:\dev\compiler\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.cpp(1056): warning C4065: switch statement contains 'default' but no 'case' labels
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(104): error C2039: 'tRoot' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(104): error C2061: syntax error : identifier 'Root'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(105): error C2065: 'root' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(105): error C2039: 'tRoot' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(113): error C2039: 'tClass' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(113): error C2061: syntax error : identifier 'Class'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(121): error C2039: 'tField' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(121): error C2039: 'tGlobal' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(125): error C2039: 'tField' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(125): error C2039: 'tFunc' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(131): error C2039: 'tFields' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(131): error C2061: syntax error : identifier 'Fields'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(135): error C2039: 'tFields' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(135): error C2227: left of '->addField' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(135): error C2039: 'tField' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(136): error C2039: 'tFields' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(142): error C2039: 'tGlobal' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(142): error C2061: syntax error : identifier 'Global'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(143): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(143): error C2227: left of '->addSymbol' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(143): error C2039: 'tIdent' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(143): error C2039: 'tType' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(143): error C2227: left of '->t' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(147): error C2039: 'tGlobal' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(147): error C2061: syntax error : identifier 'Global'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(148): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(148): error C2227: left of '->addSymbol' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(148): error C2039: 'tIdent' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(148): error C2039: 'tType' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(148): error C2227: left of '->t' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(154): error C2039: 'tVars' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(154): error C2061: syntax error : identifier 'Variables'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(158): error C2065: 'Variables' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(158): error C2065: 'vars' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(158): error C2061: syntax error : identifier 'Variables'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(159): error C2065: 'vars' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(159): error C2227: left of '->addVariable' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(159): error C2039: 'tVar' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(160): error C2039: 'tVars' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(160): error C2065: 'vars' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(164): error C2039: 'tVars' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(164): error C2227: left of '->addVariable' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(164): error C2039: 'tVar' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(165): error C2039: 'tVars' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(171): error C2039: 'tVar' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(171): error C2061: syntax error : identifier 'Variable'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(172): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(172): error C2227: left of '->addSymbol' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(172): error C2039: 'tIdent' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(172): error C2039: 'tType' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(172): error C2227: left of '->t' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(176): error C2039: 'tVar' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(176): error C2061: syntax error : identifier 'Variable'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(177): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(177): error C2227: left of '->addSymbol' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(177): error C2039: 'tIdent' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(177): error C2039: 'tType' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(177): error C2227: left of '->t' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(183): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(183): error C2227: left of '->addScope' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(186): error C2039: 'tFunc' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(186): error C2061: syntax error : identifier 'Func'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(187): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(187): error C2227: left of '->closeScope' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2227: left of '->addFuncSymbol' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2039: 'tIdent' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2039: 'tType' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2227: left of '->t' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2039: 'tParams' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2227: left of '->params' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(188): error C2039: 'tFunc' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(192): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(192): error C2227: left of '->addScope' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(195): error C2039: 'tFunc' : is not a member of 'YYSTYPE'
+                 f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(17) : see declaration of 'YYSTYPE'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(195): error C2061: syntax error : identifier 'Func'
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(196): error C2065: 'symbolTable' : undeclared identifier
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(196): error C2227: left of '->closeScope' must point to class/struct/union/generic type
+     1>f:\svu\assginments\s15\cmpp\ise_cmpp_s15_final\ise_cmpp_s15_final\ise_cmpp_s15\ise_cmpp_s15\parser.y(196): fatal error C1003: error count exceeds 100; stopping compilation
+         Program.cpp
+         Generating Code...
+     1>Done Building Project "D:\dev\Compiler\ISE_CMPP_S15_Final\ISE_CMPP_S15\ISE_CMPP_S15\ISE_CMPP_S15.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.11
